@@ -1,0 +1,5 @@
+Gender (1=Male, 2=Female)
+IQ
+Weight (in pounds)
+Height (in inches)
+BrainSize (total pixels of brain tissue from MRI image)

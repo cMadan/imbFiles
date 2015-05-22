@@ -1,0 +1,9 @@
+blocknum - number of block within the experiment, during which the trial was performed
+trialnum - number of trial within the block
+D - the delay between the response on this trial and onset of the next trial
+Dpen - additional penalty delay for making an error
+ST - binary vector describing the stimulus on the given trial, i.e. whether dots were moving leftwards or rightwards
+ER - binary vector describing whether participant made incorrect response on this trial
+RT - reaction time on the given trial [in seconds]
+
+Anum - diffuculty of a trial: 60=easy, 53=difficult

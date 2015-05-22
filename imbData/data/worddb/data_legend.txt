@@ -1,0 +1,21 @@
+Word
+Type
+Letters 
+Syllables 
+K&F - Freq.
+ANEW - Valence
+ANEW - Arousal
+Personal Use - Mean
+Personal Use - SD
+Familiarity - Mean
+Familiarity - SD
+Offensiveness - Mean
+Offensiveness - SD
+Tabooness - Mean
+Tabooness - SD
+Valence - Mean
+Valence - SD
+Arousal - Mean
+Arousal - SD
+Imageability - Mean
+Imageability - SD
