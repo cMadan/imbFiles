@@ -5,15 +5,3 @@ The supplementary data file included with the book includes two folders: The "da
 For information about the book, see SAGE Publications' website (http://www.sagepub.com/books/Book239284) or the website of the author (http://www.cmadan.com/book.php).
 
 ![book cover](https://raw.githubusercontent.com/cMadan/imbFiles/master/bookcover.jpg)
-
-### Images for the "eyetrack" dataset
-
-For this dataset, please download the images by following the instructions below and place them in this folder.
-
-(1) Go to http://www.fifadb.com, the website for the Fixations In FAces DataBase (FIFADB).
-
-(2) Where it says "Download paper data (stimuli, annotations)", click "stimuli".
-
-(3) Where it says "1. Faces (229 images) - a set of images with faces. (jpg, tif)", click "jpg".
-
-(4) You should now have a file called "faces-jpg.tgz", extract the images and place them all in this folder.
